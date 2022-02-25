@@ -31,13 +31,26 @@ npm install
 npm run server
 ```
 
+![npm run server](./public/screenshot1.png)
+
 ### Run React dev server (http://localhost:3000)
 
 ```
 npm start
 ```
 
+![npm start](./public/screenshot2.png)
+
 ## Screenshots
 
+This is what the app looks like on mobile devices:
+
+![mobile one](./public/screenshot3.png)
+
+![mobile two](./public/screenshot4.png)
+
+And this is what it looks like on other devices:
+
+![other devices](./public/screenshot5.png)
 
 ## Recommended content
