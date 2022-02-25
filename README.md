@@ -54,4 +54,4 @@ And this is what it looks like on other devices:
 ![other devices](./public/screenshot5.png)
 
 ## Recommended content
-* [Set up a full REST API in less that 30 seconds](https://www.npmjs.com/package/json-server)
+* [Set up a full REST API in less than 30 seconds](https://www.npmjs.com/package/json-server)
